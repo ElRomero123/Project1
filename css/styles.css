@@ -1,0 +1,41 @@
+#header
+{
+	background-color: rgb(108, 125, 255); 
+	margin: -22px -8px 0px -8px;
+	height: 100px;
+}
+
+.tabTitle
+{
+    font-family: roboto;
+	color: black;
+	size: 15px;
+}
+
+#h1
+{
+	font-family: roboto;
+	color: rgb(108, 125, 255);
+	size: 50px;
+}
+
+.h2
+{
+	font-family: roboto;
+	color: rgb(108, 125, 255);
+	size: 50px;
+}
+
+.h3
+{
+	font-family: roboto;
+	color: gray;
+	size: 35px;
+}
+
+#footer
+{
+	background-color: rgb(108, 125, 255);
+	margin: 300px -8px 0px -8px;
+	height: 100px;
+}
